@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a game engine named "Flux" and an animation software named "Anima"<br><br>I’m looking for help with code refactoring and working with new stuff<br><br>I’m currently learning about C++ development with Git version control<br><br>Fun fact:<br>I'm a student in Canada who usually works on projects solo
+I'm currently working on my DIY phone project and its custom OS named "Vantage OS" and a mobile app named "OpenGuide"<br><br>I’m looking for help with code refactoring and working with new stuff<br><br>I’m currently learning about C++ development with Git version control<br><br>Fun fact:<br>I'm a student in Canada who usually works on projects solo
 
 
 ## 🌐 Socials:
